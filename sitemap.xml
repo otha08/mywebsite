@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://otha08.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://otha08.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://otha08.github.io/mywebsite/about-us.html</loc>
+<lastmod>2025-10-20T09:58:03+02:00</lastmod>
+<image:image>
+<image:loc>https://otha08.github.io/mywebsite/media/posts/3/cafa9d121c33c0248c22eea2eed99f43-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://otha08.github.io/mywebsite/othas-art-shop.html</loc>
+<lastmod>2025-10-16T09:38:06+02:00</lastmod>
+<image:image>
+<image:loc>https://otha08.github.io/mywebsite/media/posts/1/leonardo-da-vinci-most-famous-paintingsfineartandyou8.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://otha08.github.io/mywebsite/media/posts/1/OIP-1.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://otha08.github.io/mywebsite/media/posts/1/OIP.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://otha08.github.io/mywebsite/media/posts/1/gallery/R-1-thumbnail.jpg</image:loc>
+<image:title><![CDATA[See care chick ]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://otha08.github.io/mywebsite/media/posts/1/gallery/R-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Hen couple land]]></image:title>
+</image:image>
+</url>
+</urlset>

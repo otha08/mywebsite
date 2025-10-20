@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://otha08.github.io/mywebsite/sitemap.xml
